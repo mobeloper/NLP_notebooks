@@ -1,0 +1,19 @@
+
+[
+  {
+    "context": "BERT is a transformer-based model designed to perform NLP tasks such as question answering, language understanding, and text classification.",
+    "question": "What is BERT?",
+    "answers": {
+      "text": ["a transformer-based model"],
+      "answer_start": [10]
+    }
+  },
+  {
+    "context": "Hugging Face provides pre-trained transformers for various NLP tasks.",
+    "question": "What does Hugging Face provide?",
+    "answers": {
+      "text": ["pre-trained transformers"],
+      "answer_start": [14]
+    }
+  }
+]
