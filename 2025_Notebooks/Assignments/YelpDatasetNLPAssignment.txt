@@ -1,0 +1,16 @@
+
+
+
+Assignment 1
+==============
+
+
+Using yelp dataset create a model that can understand the sentiment of the user.
+
+Feature: text
+Label: stars
+
+
+Interpretation of stars
+ 5,4,3 -> Happy
+ 2,1 -> Sad
