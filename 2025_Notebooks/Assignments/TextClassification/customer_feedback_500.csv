@@ -1,0 +1,501 @@
+id,feedback_text,label
+1,My order arrived damaged.,Complaint
+2,Customer support didn’t respond to my issue.,Complaint
+3,The product quality is excellent.,Praise
+4,Can I return the product if it's defective?,Query
+5,Is there a warranty on this item?,Query
+6,I was charged twice for the same item.,Complaint
+7,Can I change the delivery address?,Query
+8,The product quality is excellent.,Praise
+9,The delivery was delayed by a week.,Complaint
+10,The product stopped working within a week.,Complaint
+11,You should offer more color options.,Suggestion
+12,Thanks.,Other
+13,Offer discounts on bulk purchases.,Suggestion
+14,"Great customer service, thank you!",Praise
+15,I was charged twice for the same item.,Complaint
+16,"Amazing experience, will order again!",Praise
+17,Include user manuals with your products.,Suggestion
+18,You should offer more color options.,Suggestion
+19,Can I change the delivery address?,Query
+20,I was charged twice for the same item.,Complaint
+21,Is there a warranty on this item?,Query
+22,Okay.,Other
+23,My order arrived damaged.,Complaint
+24,Not sure what to say.,Other
+25,Okay.,Other
+26,Include user manuals with your products.,Suggestion
+27,Not sure what to say.,Other
+28,Thanks.,Other
+29,Customer support didn’t respond to my issue.,Complaint
+30,Offer discounts on bulk purchases.,Suggestion
+31,Customer support didn’t respond to my issue.,Complaint
+32,How do I track my order?,Query
+33,Just testing the form.,Other
+34,"Amazing experience, will order again!",Praise
+35,How do I track my order?,Query
+36,"Great customer service, thank you!",Praise
+37,"Amazing experience, will order again!",Praise
+38,"Amazing experience, will order again!",Praise
+39,What are the shipping charges for international delivery?,Query
+40,The product quality is excellent.,Praise
+41,Is there a warranty on this item?,Query
+42,What are the shipping charges for international delivery?,Query
+43,Add more size choices for shoes.,Suggestion
+44,"Amazing experience, will order again!",Praise
+45,The product stopped working within a week.,Complaint
+46,The product quality is excellent.,Praise
+47,I have no comments.,Other
+48,Not sure what to say.,Other
+49,I was charged twice for the same item.,Complaint
+50,The product quality is excellent.,Praise
+51,"Great customer service, thank you!",Praise
+52,Include user manuals with your products.,Suggestion
+53,Just testing the form.,Other
+54,"Fast delivery, really impressed.",Praise
+55,Just testing the form.,Other
+56,Add more size choices for shoes.,Suggestion
+57,I have no comments.,Other
+58,Include user manuals with your products.,Suggestion
+59,Offer discounts on bulk purchases.,Suggestion
+60,Can I change the delivery address?,Query
+61,Thanks.,Other
+62,The product quality is excellent.,Praise
+63,Please add PayPal as a payment method.,Suggestion
+64,The delivery was delayed by a week.,Complaint
+65,"Fast delivery, really impressed.",Praise
+66,The product stopped working within a week.,Complaint
+67,What are the shipping charges for international delivery?,Query
+68,How do I track my order?,Query
+69,The product quality is excellent.,Praise
+70,You should offer more color options.,Suggestion
+71,The product quality is excellent.,Praise
+72,Is there a warranty on this item?,Query
+73,Is there a warranty on this item?,Query
+74,Customer support didn’t respond to my issue.,Complaint
+75,Just testing the form.,Other
+76,Thanks.,Other
+77,Okay.,Other
+78,The delivery was delayed by a week.,Complaint
+79,I have no comments.,Other
+80,Is there a warranty on this item?,Query
+81,My order arrived damaged.,Complaint
+82,Not sure what to say.,Other
+83,"Amazing experience, will order again!",Praise
+84,"Great customer service, thank you!",Praise
+85,"Great customer service, thank you!",Praise
+86,Customer support didn’t respond to my issue.,Complaint
+87,"Fast delivery, really impressed.",Praise
+88,The product stopped working within a week.,Complaint
+89,How do I track my order?,Query
+90,Include user manuals with your products.,Suggestion
+91,Customer support didn’t respond to my issue.,Complaint
+92,"Fast delivery, really impressed.",Praise
+93,Include user manuals with your products.,Suggestion
+94,The product stopped working within a week.,Complaint
+95,Add more size choices for shoes.,Suggestion
+96,How do I track my order?,Query
+97,"Amazing experience, will order again!",Praise
+98,Offer discounts on bulk purchases.,Suggestion
+99,The delivery was delayed by a week.,Complaint
+100,Thanks.,Other
+101,Can I change the delivery address?,Query
+102,How do I track my order?,Query
+103,Can I return the product if it's defective?,Query
+104,Is there a warranty on this item?,Query
+105,"Amazing experience, will order again!",Praise
+106,Okay.,Other
+107,My order arrived damaged.,Complaint
+108,My order arrived damaged.,Complaint
+109,"Amazing experience, will order again!",Praise
+110,Please add PayPal as a payment method.,Suggestion
+111,What are the shipping charges for international delivery?,Query
+112,The delivery was delayed by a week.,Complaint
+113,"Fast delivery, really impressed.",Praise
+114,Loved the packaging and attention to detail.,Praise
+115,Add more size choices for shoes.,Suggestion
+116,Loved the packaging and attention to detail.,Praise
+117,Okay.,Other
+118,Offer discounts on bulk purchases.,Suggestion
+119,The product quality is excellent.,Praise
+120,Can I return the product if it's defective?,Query
+121,My order arrived damaged.,Complaint
+122,Okay.,Other
+123,How do I track my order?,Query
+124,Not sure what to say.,Other
+125,Just testing the form.,Other
+126,What are the shipping charges for international delivery?,Query
+127,Is there a warranty on this item?,Query
+128,"Fast delivery, really impressed.",Praise
+129,"Amazing experience, will order again!",Praise
+130,"Amazing experience, will order again!",Praise
+131,"Fast delivery, really impressed.",Praise
+132,Can I return the product if it's defective?,Query
+133,Okay.,Other
+134,Can I change the delivery address?,Query
+135,The delivery was delayed by a week.,Complaint
+136,Okay.,Other
+137,"Fast delivery, really impressed.",Praise
+138,What are the shipping charges for international delivery?,Query
+139,"Amazing experience, will order again!",Praise
+140,How do I track my order?,Query
+141,The delivery was delayed by a week.,Complaint
+142,The product stopped working within a week.,Complaint
+143,Please add PayPal as a payment method.,Suggestion
+144,You should offer more color options.,Suggestion
+145,The product quality is excellent.,Praise
+146,I was charged twice for the same item.,Complaint
+147,The delivery was delayed by a week.,Complaint
+148,Thanks.,Other
+149,Please add PayPal as a payment method.,Suggestion
+150,You should offer more color options.,Suggestion
+151,Offer discounts on bulk purchases.,Suggestion
+152,How do I track my order?,Query
+153,The product stopped working within a week.,Complaint
+154,"Fast delivery, really impressed.",Praise
+155,I have no comments.,Other
+156,You should offer more color options.,Suggestion
+157,Not sure what to say.,Other
+158,You should offer more color options.,Suggestion
+159,I was charged twice for the same item.,Complaint
+160,Just testing the form.,Other
+161,Can I return the product if it's defective?,Query
+162,Can I return the product if it's defective?,Query
+163,The delivery was delayed by a week.,Complaint
+164,Offer discounts on bulk purchases.,Suggestion
+165,What are the shipping charges for international delivery?,Query
+166,How do I track my order?,Query
+167,You should offer more color options.,Suggestion
+168,Offer discounts on bulk purchases.,Suggestion
+169,What are the shipping charges for international delivery?,Query
+170,Include user manuals with your products.,Suggestion
+171,Add more size choices for shoes.,Suggestion
+172,Offer discounts on bulk purchases.,Suggestion
+173,Add more size choices for shoes.,Suggestion
+174,The delivery was delayed by a week.,Complaint
+175,Can I return the product if it's defective?,Query
+176,Loved the packaging and attention to detail.,Praise
+177,Just testing the form.,Other
+178,Okay.,Other
+179,You should offer more color options.,Suggestion
+180,The delivery was delayed by a week.,Complaint
+181,"Great customer service, thank you!",Praise
+182,Customer support didn’t respond to my issue.,Complaint
+183,My order arrived damaged.,Complaint
+184,I was charged twice for the same item.,Complaint
+185,Add more size choices for shoes.,Suggestion
+186,Include user manuals with your products.,Suggestion
+187,"Fast delivery, really impressed.",Praise
+188,Can I change the delivery address?,Query
+189,The product stopped working within a week.,Complaint
+190,What are the shipping charges for international delivery?,Query
+191,Customer support didn’t respond to my issue.,Complaint
+192,Can I change the delivery address?,Query
+193,Can I return the product if it's defective?,Query
+194,"Amazing experience, will order again!",Praise
+195,Thanks.,Other
+196,The product quality is excellent.,Praise
+197,Thanks.,Other
+198,Okay.,Other
+199,"Amazing experience, will order again!",Praise
+200,The delivery was delayed by a week.,Complaint
+201,Not sure what to say.,Other
+202,What are the shipping charges for international delivery?,Query
+203,You should offer more color options.,Suggestion
+204,"Fast delivery, really impressed.",Praise
+205,My order arrived damaged.,Complaint
+206,Customer support didn’t respond to my issue.,Complaint
+207,"Amazing experience, will order again!",Praise
+208,How do I track my order?,Query
+209,Can I change the delivery address?,Query
+210,The product quality is excellent.,Praise
+211,Offer discounts on bulk purchases.,Suggestion
+212,Include user manuals with your products.,Suggestion
+213,I have no comments.,Other
+214,Customer support didn’t respond to my issue.,Complaint
+215,What are the shipping charges for international delivery?,Query
+216,The product quality is excellent.,Praise
+217,The delivery was delayed by a week.,Complaint
+218,The delivery was delayed by a week.,Complaint
+219,The product stopped working within a week.,Complaint
+220,Just testing the form.,Other
+221,"Great customer service, thank you!",Praise
+222,I have no comments.,Other
+223,Please add PayPal as a payment method.,Suggestion
+224,Thanks.,Other
+225,Just testing the form.,Other
+226,Okay.,Other
+227,Add more size choices for shoes.,Suggestion
+228,How do I track my order?,Query
+229,Offer discounts on bulk purchases.,Suggestion
+230,Add more size choices for shoes.,Suggestion
+231,You should offer more color options.,Suggestion
+232,Thanks.,Other
+233,Customer support didn’t respond to my issue.,Complaint
+234,The product quality is excellent.,Praise
+235,Offer discounts on bulk purchases.,Suggestion
+236,You should offer more color options.,Suggestion
+237,I have no comments.,Other
+238,What are the shipping charges for international delivery?,Query
+239,How do I track my order?,Query
+240,Loved the packaging and attention to detail.,Praise
+241,Please add PayPal as a payment method.,Suggestion
+242,Is there a warranty on this item?,Query
+243,Is there a warranty on this item?,Query
+244,Customer support didn’t respond to my issue.,Complaint
+245,Can I change the delivery address?,Query
+246,Offer discounts on bulk purchases.,Suggestion
+247,The delivery was delayed by a week.,Complaint
+248,Please add PayPal as a payment method.,Suggestion
+249,Add more size choices for shoes.,Suggestion
+250,I have no comments.,Other
+251,Thanks.,Other
+252,Loved the packaging and attention to detail.,Praise
+253,I have no comments.,Other
+254,Just testing the form.,Other
+255,Customer support didn’t respond to my issue.,Complaint
+256,My order arrived damaged.,Complaint
+257,Can I change the delivery address?,Query
+258,Just testing the form.,Other
+259,"Great customer service, thank you!",Praise
+260,My order arrived damaged.,Complaint
+261,The delivery was delayed by a week.,Complaint
+262,Just testing the form.,Other
+263,Offer discounts on bulk purchases.,Suggestion
+264,What are the shipping charges for international delivery?,Query
+265,Can I change the delivery address?,Query
+266,Can I return the product if it's defective?,Query
+267,Not sure what to say.,Other
+268,My order arrived damaged.,Complaint
+269,Is there a warranty on this item?,Query
+270,Just testing the form.,Other
+271,"Amazing experience, will order again!",Praise
+272,"Great customer service, thank you!",Praise
+273,The delivery was delayed by a week.,Complaint
+274,Include user manuals with your products.,Suggestion
+275,Add more size choices for shoes.,Suggestion
+276,"Fast delivery, really impressed.",Praise
+277,My order arrived damaged.,Complaint
+278,Just testing the form.,Other
+279,Okay.,Other
+280,Add more size choices for shoes.,Suggestion
+281,I was charged twice for the same item.,Complaint
+282,My order arrived damaged.,Complaint
+283,I have no comments.,Other
+284,Just testing the form.,Other
+285,"Great customer service, thank you!",Praise
+286,My order arrived damaged.,Complaint
+287,How do I track my order?,Query
+288,Include user manuals with your products.,Suggestion
+289,Include user manuals with your products.,Suggestion
+290,Is there a warranty on this item?,Query
+291,You should offer more color options.,Suggestion
+292,The delivery was delayed by a week.,Complaint
+293,I was charged twice for the same item.,Complaint
+294,Just testing the form.,Other
+295,The product quality is excellent.,Praise
+296,Please add PayPal as a payment method.,Suggestion
+297,Thanks.,Other
+298,"Great customer service, thank you!",Praise
+299,"Amazing experience, will order again!",Praise
+300,Customer support didn’t respond to my issue.,Complaint
+301,How do I track my order?,Query
+302,"Great customer service, thank you!",Praise
+303,Include user manuals with your products.,Suggestion
+304,Is there a warranty on this item?,Query
+305,Is there a warranty on this item?,Query
+306,The product quality is excellent.,Praise
+307,My order arrived damaged.,Complaint
+308,Include user manuals with your products.,Suggestion
+309,Include user manuals with your products.,Suggestion
+310,Loved the packaging and attention to detail.,Praise
+311,Add more size choices for shoes.,Suggestion
+312,Please add PayPal as a payment method.,Suggestion
+313,Add more size choices for shoes.,Suggestion
+314,Can I return the product if it's defective?,Query
+315,Can I return the product if it's defective?,Query
+316,The product stopped working within a week.,Complaint
+317,"Amazing experience, will order again!",Praise
+318,How do I track my order?,Query
+319,Just testing the form.,Other
+320,The product stopped working within a week.,Complaint
+321,Okay.,Other
+322,Offer discounts on bulk purchases.,Suggestion
+323,Can I return the product if it's defective?,Query
+324,Loved the packaging and attention to detail.,Praise
+325,"Fast delivery, really impressed.",Praise
+326,My order arrived damaged.,Complaint
+327,Can I change the delivery address?,Query
+328,Okay.,Other
+329,The product quality is excellent.,Praise
+330,Thanks.,Other
+331,Please add PayPal as a payment method.,Suggestion
+332,Just testing the form.,Other
+333,Not sure what to say.,Other
+334,The product quality is excellent.,Praise
+335,The product quality is excellent.,Praise
+336,How do I track my order?,Query
+337,"Amazing experience, will order again!",Praise
+338,Customer support didn’t respond to my issue.,Complaint
+339,My order arrived damaged.,Complaint
+340,Not sure what to say.,Other
+341,Okay.,Other
+342,The product quality is excellent.,Praise
+343,"Amazing experience, will order again!",Praise
+344,The delivery was delayed by a week.,Complaint
+345,What are the shipping charges for international delivery?,Query
+346,Just testing the form.,Other
+347,The product stopped working within a week.,Complaint
+348,Add more size choices for shoes.,Suggestion
+349,The product stopped working within a week.,Complaint
+350,What are the shipping charges for international delivery?,Query
+351,Okay.,Other
+352,I have no comments.,Other
+353,My order arrived damaged.,Complaint
+354,The product quality is excellent.,Praise
+355,Customer support didn’t respond to my issue.,Complaint
+356,Loved the packaging and attention to detail.,Praise
+357,Just testing the form.,Other
+358,Please add PayPal as a payment method.,Suggestion
+359,You should offer more color options.,Suggestion
+360,My order arrived damaged.,Complaint
+361,How do I track my order?,Query
+362,Okay.,Other
+363,Add more size choices for shoes.,Suggestion
+364,Can I return the product if it's defective?,Query
+365,Customer support didn’t respond to my issue.,Complaint
+366,You should offer more color options.,Suggestion
+367,My order arrived damaged.,Complaint
+368,"Great customer service, thank you!",Praise
+369,You should offer more color options.,Suggestion
+370,I have no comments.,Other
+371,Include user manuals with your products.,Suggestion
+372,Customer support didn’t respond to my issue.,Complaint
+373,How do I track my order?,Query
+374,Offer discounts on bulk purchases.,Suggestion
+375,Include user manuals with your products.,Suggestion
+376,Okay.,Other
+377,Can I change the delivery address?,Query
+378,Loved the packaging and attention to detail.,Praise
+379,Offer discounts on bulk purchases.,Suggestion
+380,You should offer more color options.,Suggestion
+381,What are the shipping charges for international delivery?,Query
+382,My order arrived damaged.,Complaint
+383,Not sure what to say.,Other
+384,The product quality is excellent.,Praise
+385,Offer discounts on bulk purchases.,Suggestion
+386,What are the shipping charges for international delivery?,Query
+387,Include user manuals with your products.,Suggestion
+388,Okay.,Other
+389,You should offer more color options.,Suggestion
+390,Not sure what to say.,Other
+391,Offer discounts on bulk purchases.,Suggestion
+392,I was charged twice for the same item.,Complaint
+393,The product stopped working within a week.,Complaint
+394,Customer support didn’t respond to my issue.,Complaint
+395,Offer discounts on bulk purchases.,Suggestion
+396,Just testing the form.,Other
+397,Add more size choices for shoes.,Suggestion
+398,What are the shipping charges for international delivery?,Query
+399,Okay.,Other
+400,"Amazing experience, will order again!",Praise
+401,My order arrived damaged.,Complaint
+402,How do I track my order?,Query
+403,Not sure what to say.,Other
+404,Okay.,Other
+405,Can I change the delivery address?,Query
+406,How do I track my order?,Query
+407,Just testing the form.,Other
+408,The product stopped working within a week.,Complaint
+409,Okay.,Other
+410,The delivery was delayed by a week.,Complaint
+411,The delivery was delayed by a week.,Complaint
+412,Add more size choices for shoes.,Suggestion
+413,Add more size choices for shoes.,Suggestion
+414,The delivery was delayed by a week.,Complaint
+415,The product stopped working within a week.,Complaint
+416,Offer discounts on bulk purchases.,Suggestion
+417,Include user manuals with your products.,Suggestion
+418,My order arrived damaged.,Complaint
+419,The product stopped working within a week.,Complaint
+420,Please add PayPal as a payment method.,Suggestion
+421,Include user manuals with your products.,Suggestion
+422,Is there a warranty on this item?,Query
+423,Just testing the form.,Other
+424,My order arrived damaged.,Complaint
+425,Thanks.,Other
+426,Can I return the product if it's defective?,Query
+427,Okay.,Other
+428,Offer discounts on bulk purchases.,Suggestion
+429,Loved the packaging and attention to detail.,Praise
+430,Customer support didn’t respond to my issue.,Complaint
+431,What are the shipping charges for international delivery?,Query
+432,"Amazing experience, will order again!",Praise
+433,Not sure what to say.,Other
+434,Just testing the form.,Other
+435,The product quality is excellent.,Praise
+436,The product stopped working within a week.,Complaint
+437,The product stopped working within a week.,Complaint
+438,I have no comments.,Other
+439,Is there a warranty on this item?,Query
+440,Loved the packaging and attention to detail.,Praise
+441,Can I change the delivery address?,Query
+442,The product quality is excellent.,Praise
+443,Thanks.,Other
+444,Loved the packaging and attention to detail.,Praise
+445,Add more size choices for shoes.,Suggestion
+446,How do I track my order?,Query
+447,Just testing the form.,Other
+448,The product quality is excellent.,Praise
+449,"Amazing experience, will order again!",Praise
+450,Okay.,Other
+451,"Great customer service, thank you!",Praise
+452,Can I return the product if it's defective?,Query
+453,The delivery was delayed by a week.,Complaint
+454,Can I change the delivery address?,Query
+455,Include user manuals with your products.,Suggestion
+456,Add more size choices for shoes.,Suggestion
+457,You should offer more color options.,Suggestion
+458,The product stopped working within a week.,Complaint
+459,I was charged twice for the same item.,Complaint
+460,Customer support didn’t respond to my issue.,Complaint
+461,Offer discounts on bulk purchases.,Suggestion
+462,You should offer more color options.,Suggestion
+463,"Amazing experience, will order again!",Praise
+464,Thanks.,Other
+465,What are the shipping charges for international delivery?,Query
+466,Please add PayPal as a payment method.,Suggestion
+467,What are the shipping charges for international delivery?,Query
+468,I have no comments.,Other
+469,Include user manuals with your products.,Suggestion
+470,Loved the packaging and attention to detail.,Praise
+471,I was charged twice for the same item.,Complaint
+472,Just testing the form.,Other
+473,Include user manuals with your products.,Suggestion
+474,Include user manuals with your products.,Suggestion
+475,Loved the packaging and attention to detail.,Praise
+476,I have no comments.,Other
+477,Is there a warranty on this item?,Query
+478,The delivery was delayed by a week.,Complaint
+479,What are the shipping charges for international delivery?,Query
+480,The delivery was delayed by a week.,Complaint
+481,Add more size choices for shoes.,Suggestion
+482,Loved the packaging and attention to detail.,
+483,Is there a warranty on this item?,Query
+484,Offer discounts on bulk purchases.,Suggestion
+485,The delivery was delayed by a week.,Complaint
+486,The product stopped working within a week.,Complaint
+487,Can I change the delivery address?,Query
+488,The product quality is excellent.,Praise
+489,Can I return the product if it's defective?,Query
+490,The product stopped working within a week.,
+491,Is there a warranty on this item?,Query
+492,Please add PayPal as a payment method.,Suggestion
+493,I was charged twice for the same item.,Complaint
+494,,Praise
+495,Add more size choices for shoes.,
+496,"Fast delivery, really impressed.",Praise
+497,I was charged twice for the same item.,Complaint
+498,Not sure what to say.,Other
+499,"Fast delivery, really impressed.",Praise
+500,The product quality is excellent.,Praise

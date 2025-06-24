@@ -1,0 +1,21 @@
+Problem Statement:
+You work for a company that receives a lot of customer feedback through emails, chat, and social media. The company wants to automatically classify incoming feedback into predefined categories to speed up triaging and response.
+
+Objective:
+Classify customer feedback into one of the following categories:
+
+Complaint
+Praise
+Query
+Suggestion
+Other
+
+
+
+Suggested Workflow:
+Data Cleaning: Lowercase, remove stopwords, lemmatize
+EDA: WordCloud, class distribution, most common phrases
+Vectorization: TF-IDF or Word Embeddings
+Modeling: Train baseline and advanced models
+Evaluation: Confusion Matrix, F1-Score, Accuracy
+Deployment: Simple Streamlit app for real-time classification
